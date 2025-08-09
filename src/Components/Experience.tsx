@@ -119,8 +119,7 @@ const Experience = () => {
       "Algorithm & structured programming pioneer; shortest path algorithm.",
     "Ken Thompson": "Co-creator of Unix and the B programming language.",
     "Dennis Ritchie": "Co-creator of C and Unix; shaped modern computing.",
-    "Stephen Hawking":
-      "Theoretical physicist known for work on black holes & cosmology.",
+   
   };
 
   return (
