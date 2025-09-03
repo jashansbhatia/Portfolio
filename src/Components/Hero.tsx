@@ -96,12 +96,12 @@ const Hero = () => {
             Building scalable backend solutions with clean, efficient code.
             <br />
             Passionate about{" "}
-            <span className="text-mauve font-medium">minimalist design</span>,
+            {/* <span className="text-mauve font-medium">minimalist design</span>, */}
             <span className="text-pink font-medium">
               {" "}
               open-source technologies
-            </span>
-            , and
+            </span>{" "}
+            and
             <span className="text-lavender font-medium">
               {" "}
               elegant systems architecture

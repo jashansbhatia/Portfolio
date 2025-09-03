@@ -70,7 +70,7 @@ const Experience = () => {
       title: "HACHE-JUIT",
       description: "2nd",
       detail:
-        "This is a 24-hour Capture The Flag (CTF) event that tested my technical proficiency in Linux, VMware, and reverse engineering tools. The event challenged my problem-solving skills, persistence, and ability to work under pressure in a high-stakes cybersecurity environment.",
+        "This is a 24-hour Capture The Flag (CTF) event that tested my technical proficiency in Linux, VMware, and reverse engineering tools. The event challenged my problem-solving skills, persistence, and ability to work in basic cybersecurity environment.",
       icon: "🏆",
       highlight: false,
     },
@@ -119,7 +119,6 @@ const Experience = () => {
       "Algorithm & structured programming pioneer; shortest path algorithm.",
     "Ken Thompson": "Co-creator of Unix and the B programming language.",
     "Dennis Ritchie": "Co-creator of C and Unix; shaped modern computing.",
-   
   };
 
   return (

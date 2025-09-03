@@ -33,7 +33,6 @@ const About = () => {
 
   const interests = [
     "Linux & Open Source",
-    "Minimal Design",
     "System Architecture",
     "Performance Optimization",
     "Clean Code",
