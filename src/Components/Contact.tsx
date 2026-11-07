@@ -103,8 +103,8 @@ const Contact = ({ onNotification }: ContactProps) => {
         </svg>
       ),
       label: "GitHub",
-      value: "jashan7167",
-      href: "https://github.com/jashan7167",
+      value: "jashansbhatia",
+      href: "https://github.com/jashansbhatia",
       description: "Check out my code",
     },
     {
